@@ -1,5 +1,5 @@
 {
-  "Nawigacja": {
+  "nav": {
     "home": "Strona główna",
     "docs": "Czujnik",
     "blog": "Blog",
@@ -8,13 +8,13 @@
     "sensor": "Czujnik",
     "donate": "Podaruj"
   },
-  "Błąd": {
+  "error": {
     "errorStatus": "Napotkany błąd {status}.",
     "reloadPage": "Proszę spróbować przeładować stronę.",
     "offline": "Wygląda na to, że jesteś offline.",
     "submitError": "Jeśli błąd się powtarza, proszę wrócić do <a href=\"chat.sensor.community\">Discourse forum</a> i dać nam znać, lub zgłosić problem w sprawie <a href=\"https://github.com/opendata-stuttgart/\">GitHub</a>. Podziękowania!"
   },
-  "Indeks": {
+  "index": {
     "metaDescription": "Zbuduj swój czujnik DIYY i stań się częścią światowej nauki obywatelskiej, otwartych danych, sieci technologii obywatelskich. Wspierany przez wielu współpracowników \uD83D\uDC95",
     "metaTitle": "Sensor.Community \uD83C\uDF10 Zbuduj swój własny czujnik i dołącz do światowej sieci technologii obywatelskich",
     "h1-build": "Zbuduj swój własny czujnik",
@@ -35,13 +35,13 @@
     "message-mission": "Naszą misją jest inspirowanie i wzbogacanie życia ludzi poprzez oferowanie platformy dla zbiorowej ciekawości w naturze, która jest prawdziwa, radosna i pozytywna.",
     "message-hubs": "Sensor.Community ma globalne węzły w Stuttgarcie, Sofii i Warszawie."
   },
-  "Czujnik": {
+  "sensor": {
     "metaDescription": "",
     "metaTitle": "Znajdź swój czujnik i instrukcję budowlaną dla czujnika drobnego pyłu DYI",
     "h1": "Zestawy czujników",
     "subtitle": " Znajdź naszą stronę guides️ dla swojego czujnika"
   },
-  "Instrukcja montażu": {
+  "guide": {
     "editOnGithub": "edytować na GitHubie"
   },
   "airrohr": {
@@ -55,7 +55,7 @@
     "subtitle": "Już wkrótce",
     "getNotified": "\uD83D\uDC8C Subskrybuj"
   },
-  "Podaruj": {
+  "donate": {
     "metaDescription": "Jesteśmy organizacją non-profit, niekorporacyjną i bezkompromisową. Ludzie tacy jak ty pomagają nam. W realizacji naszej misji polegamy na darowiznach.",
     "metaTitle": "Dawaj - pomóż nam, okazując swoją miłość",
     "h1": "Pokaż swoje wsparcie",
@@ -76,7 +76,7 @@
     "h1": "Ostatnie stanowiska",
     "description": " Znajdź wiadomości lub inne ciekawe informacje"
   },
-  "Darczyńcy": {
+  "contributors": {
     "metaDescription": "Ludzie stojący za projektem",
     "metaTitle": "Współtwórcy Sensor.Community",
     "h1": "Witajcie z drużyny \uD83D\uDC4B",
@@ -84,7 +84,7 @@
     "contactBottom": "\uD83D\uDCEEProszę skorzystać z opcji kontaktu na dole strony.",
     "meetTeam": "Spotkaj się z zespołem"
   },
-  "Projekty": {
+  "projects": {
     "metaDescription": "Znajdź aplikacje mobilne, strony internetowe,... z naszej pięknej społeczności \uD83D\uDC96",
     "metaTitle": "Projekty wspólnotowe",
     "h1": "Projekty wspólnotowe",
@@ -92,34 +92,34 @@
     "submitIdea": "Masz wspaniały projekt? Podziel się nim ze społecznością!",
     "submitProject": "Prześlij swój projekt→"
   },
-  "piasty": {
+  "hubs": {
     "metaDescription": "Znajdź społeczności na całym świecie \uD83D\uDC96️",
     "metaTitle": "Community Hubs",
     "h1": "Community Hubs",
     "description": "Znajdź społeczności na całym świecie \uD83D\uDC96️️"
   },
-  "Kampanie": {
+  "campaigns": {
     "title": "Przyłącz się do kampanii"
   },
-  "Kampanie": {
+  "campaign": {
     "h1": "Kampanie",
     "subtitle": "Już wkrótce",
     "getNotified": "\uD83D\uDC8C Subskrybuj"
   },
-  "Współpraca": {
+  "collaborations": {
     "h1": "Współpraca",
     "subtitle": "Już wkrótce",
     "getNotified": "\uD83D\uDC8C Subskrybuj"
   },
-  "Lokalizacja": {
+  "location": {
     "h1": "Lokalizacja",
     "subtitle": "Już wkrótce",
     "getNotified": "\uD83D\uDC8C Subskrybuj"
   },
-  "Partnerstwo": {
+  "partnership": {
     "title": "Współpraca"
   },
-  "Kontakt": {
+  "contact": {
     "title": "Skontaktuj się z nami",
     "general": "Kontakt",
     "general-subtitle": "pytania ogólne?",
@@ -143,7 +143,7 @@
     "mission" : "Uczynienie świata lepszym miejscem dzięki otwartym danym środowiskowym, kierowanym przez społeczność.",
     "withLove": "Wykonany z \uD83D\uDC95 w Stuttgarcie, Niemcy"
   },
-  "Druk": {
+  "imprint": {
     "h1": "Druk i prywatność",
     "lastModified": "Last Modified: ",
     "imprint": "Druk",
